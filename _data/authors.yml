@@ -1,0 +1,29 @@
+dtrca:
+  name: Jungsu Park
+  picture: /images/dtrca.png
+  twitter: "@dtrca_moai"
+  links:
+    - title: Twitter
+      url: https://twitter.com/dtrca_moai
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/dtrca_moai
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/dtrca-nc
+      icon: fab fa-github-square
+
+ncdrjang:
+  name: Hanyong Jang
+  picture: /images/ncdrjang.jpg
+  twitter: "@ncdrjang_moai"
+  links:
+    - title: Twitter
+      url: https://twitter.com/ncdrjang_moai
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/ncdrjang_moai
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/ncdrjang_moai
+      icon: fab fa-github-square
