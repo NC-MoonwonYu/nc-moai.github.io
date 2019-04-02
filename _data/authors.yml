@@ -37,3 +37,23 @@ dtrca:
 eunbi:
   name: Eunbi Seol
   picture: /images/eunbi.png
+
+jaekyuoh:
+  name: Jaekyu Oh
+  picture: /images/jaekyuoh.png
+
+june5:
+  name: June Oh
+  picture: /images/june5.png
+
+moonwonyu:
+  name: Moonwon Yu
+  picture: /images/moonwonyu.png
+
+yoondm:
+  name: Dumim Yoon
+  picture: /images/yoondm.png
+
+swchung:
+  name: Seongwoo Chung
+  picture: /images/swchung.png
