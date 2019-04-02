@@ -1,6 +1,7 @@
 ---
 title: Welcome to MoAI Website!
-layout: collection
-collection: _posts
-entries_layout: grid
+layout: home
+limit: 10
+show_excerpts: true
+entries_layout: list
 ---
