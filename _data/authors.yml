@@ -1,29 +1,39 @@
-dtrca:
-  name: Jungsu Park
+author_template:
+  name: Template
   picture: /images/dtrca.png
-  twitter: "@dtrca_moai"
   links:
     - title: Twitter
-      url: https://twitter.com/dtrca_moai
+      url: 
       icon: fab fa-twitter-square
     - title: Instagram
-      url: https://instagram.com/dtrca_moai
+      url: 
       icon: fab fa-instagram
     - title: GitHub
-      url: https://github.com/dtrca-nc
+      url: 
       icon: fab fa-github-square
 
 ncdrjang:
   name: Hanyong Jang
   picture: /images/ncdrjang.jpg
-  twitter: "@ncdrjang_moai"
   links:
     - title: Twitter
-      url: https://twitter.com/ncdrjang_moai
+      url: 
       icon: fab fa-twitter-square
     - title: Instagram
-      url: https://instagram.com/ncdrjang_moai
+      url: 
       icon: fab fa-instagram
     - title: GitHub
-      url: https://github.com/ncdrjang_moai
+      url: 
       icon: fab fa-github-square
+
+requiem4546:
+  name: Byungjun Kwon
+  picture: /images/requiem4546.png
+
+dtrca:
+  name: Jungsu Park
+  picture: /images/dtrca.png
+
+eunbi:
+  name: Eunbi Seol
+  picture: /images/eunbi.png
