@@ -1,6 +1,6 @@
 ---
 title: Publications
-layout: home
+layout: blank
 permalink: /publications/
 ---
 
