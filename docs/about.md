@@ -6,6 +6,8 @@ permalink: /about/
 
 Commit test version v04.02.1529
 
+## Motion AI Team
+
 Motion AI Team in NCSOFT is interested in computer graphics and AI.<br><br>
 Most of our projects are based on deep learning techniques to generate high-fidelity character animation.
 
@@ -17,3 +19,17 @@ disambiguates the variations in facial expression that cannot be explained by
 the audio alone. 
 
 Contact: ncdrjang@ncsoft.com
+
+## Members
+
+| Name                  |  Field of Research                                            |
+|-----------------------|---------------------------------------------------------------|
+| [Hanyong Jang](#)     |  Team Leader                                                  |
+| [Byungjun Kwon](#)    |  Inverse Kinematics, Style Transfer                           |
+| [Eunbi Seol](#)       |  Inverse Kinematics, NCML                                     |
+| [Jungsu Park](#)      |  Facial Animation                                             |
+| [Jaekyu Oh](#)        |  Facial Animation                                             |
+| [June Oh](#)          |  Facial Animation                                             |
+| [Moonwon Yu](#)       |  Inverse Kinematics, Style Transfer                           |
+| [Dumim Yoon](#)       |  Facial Animation                                             |
+| [Seongwoo Chung](#)   |  Facial Animation, NCML                                       |
