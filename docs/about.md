@@ -4,7 +4,7 @@ layout: home
 permalink: /about/
 ---
 
-Commit test version v04.02.1045
+Commit test version v04.02.1503
 
 Motion AI Team in NCSOFT is interested in computer graphics and AI.<br><br>
 Most of our projects are based on deep learning techniques to generate high-fidelity character animation.
