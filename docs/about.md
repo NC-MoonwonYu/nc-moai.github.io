@@ -24,12 +24,12 @@ Contact: ncdrjang@ncsoft.com
 
 | Name               |  Field of Research                                            |
 |--------------------|---------------------------------------------------------------|
-| <figure style="width: 150px""><img src="{{ '/images/ncdrjang.jpg' | absolute_url }}" alt="">Hanyong Jang</figure> | Team Leader |
-| <figure style="width: 150px""><img src="{{ '/images/requiem4546.jpg' | absolute_url }}" alt="">Byungjun Kwon</figure> | Inverse Kinematics, Style Transfer |
-| <figure style="width: 150px""><img src="{{ '/images/dtrca.jpg' | absolute_url }}" alt="">Byungjun Kwon</figure> | Facial Animation |
-| <figure style="width: 150px""><img src="{{ '/images/eunbi.jpg' | absolute_url }}" alt="">Byungjun Kwon</figure> | Inverse Kinematics, NCML |
-| <figure style="width: 150px""><img src="{{ '/images/jaekyuoh.jpg' | absolute_url }}" alt="">Byungjun Kwon</figure> | Facial Animation |
-| <figure style="width: 150px""><img src="{{ '/images/june5.jpg' | absolute_url }}" alt="">Byungjun Kwon</figure> | Facial Animation |
-| <figure style="width: 150px""><img src="{{ '/images/moonwonyu.jpg' | absolute_url }}" alt="">Byungjun Kwon</figure> | Inverse Kinematics, Style Transfer |
-| <figure style="width: 150px""><img src="{{ '/images/yoondm.jpg' | absolute_url }}" alt="">Byungjun Kwon</figure> | Facial Animation |
-| <figure style="width: 150px""><img src="{{ '/images/swchung.jpg' | absolute_url }}" alt="">Byungjun Kwon</figure> | Facial Animation, NCML |
+| <figure style="width: 150px"><img src="{{ '/images/ncdrjang.jpg' | absolute_url }}" alt="">Hanyong Jang</figure> | Team Leader |
+| <figure style="width: 150px"><img src="{{ '/images/requiem4546.jpg' | absolute_url }}" alt="">Byungjun Kwon</figure> | Inverse Kinematics, Style Transfer |
+| <figure style="width: 150px"><img src="{{ '/images/dtrca.jpg' | absolute_url }}" alt="">Byungjun Kwon</figure> | Facial Animation |
+| <figure style="width: 150px"><img src="{{ '/images/eunbi.jpg' | absolute_url }}" alt="">Byungjun Kwon</figure> | Inverse Kinematics, NCML |
+| <figure style="width: 150px"><img src="{{ '/images/jaekyuoh.jpg' | absolute_url }}" alt="">Byungjun Kwon</figure> | Facial Animation |
+| <figure style="width: 150px"><img src="{{ '/images/june5.jpg' | absolute_url }}" alt="">Byungjun Kwon</figure> | Facial Animation |
+| <figure style="width: 150px"><img src="{{ '/images/moonwonyu.jpg' | absolute_url }}" alt="">Byungjun Kwon</figure> | Inverse Kinematics, Style Transfer |
+| <figure style="width: 150px"><img src="{{ '/images/yoondm.jpg' | absolute_url }}" alt="">Byungjun Kwon</figure> | Facial Animation |
+| <figure style="width: 150px"><img src="{{ '/images/swchung.jpg' | absolute_url }}" alt="">Byungjun Kwon</figure> | Facial Animation, NCML |
