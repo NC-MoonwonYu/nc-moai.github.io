@@ -24,7 +24,7 @@ Contact: ncdrjang@ncsoft.com
 
 | Name               |  Field of Research                                            |
 |--------------------|---------------------------------------------------------------|
-| ![image-left]({{ '/images/ncdrjang.jpg'|absolute_url}}){: .align-left} [Hanyong Jang]     |  Team Leader                                                  |
+| <figure style="width: 150px" class="align-right"><img src="{{ '/images/ncdrjang.jpg' | absolute_url }}" alt=""><figcaption>Hanyong Jang</figcaption></figure> [Hanyong Jang]     |  Team Leader                                                  |
 | [Byungjun Kwon]    |  Inverse Kinematics, Style Transfer                           |
 | [Eunbi Seol]       |  Inverse Kinematics, NCML                                     |
 | [Jungsu Park]      |  Facial Animation                                             |
@@ -34,7 +34,4 @@ Contact: ncdrjang@ncsoft.com
 | [Dumim Yoon]       |  Facial Animation                                             |
 | [Seongwoo Chung]   |  Facial Animation, NCML                                       |
 
- <figure style="width: 150px" class="align-right">
-  <img src="{{ '/images/ncdrjang.jpg' | absolute_url }}" alt="">
-  <figcaption>Feels good to be on the right.</figcaption>
-</figure>
+<figure style="width: 150px" class="align-right"><img src="{{ '/images/ncdrjang.jpg' | absolute_url }}" alt=""><figcaption>Hanyong Jang</figcaption></figure>
