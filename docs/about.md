@@ -24,12 +24,12 @@ Contact: ncdrjang@ncsoft.com
 
 | Name               |  Field of Research                                            |
 |--------------------|---------------------------------------------------------------|
-| <figure style="width: 150px"><img src="{{ '/images/ncdrjang.jpg' | absolute_url }}" alt="">Hanyong Jang</figure> | Team Leader |
-| <figure style="width: 150px"><img src="{{ '/images/requiem4546.png' | absolute_url }}" alt="">Byungjun Kwon</figure> | Inverse Kinematics, Style Transfer |
-| <figure style="width: 150px"><img src="{{ '/images/dtrca.png' | absolute_url }}" alt="">Jungsu Park</figure> | Facial Animation |
-| <figure style="width: 150px"><img src="{{ '/images/eunbi.png' | absolute_url }}" alt="">Eunbi Seol</figure> | Inverse Kinematics, NCML |
-| <figure style="width: 150px"><img src="{{ '/images/jaekyuoh.png' | absolute_url }}" alt="">Jaekyu Oh</figure> | Facial Animation |
-| <figure style="width: 150px"><img src="{{ '/images/june5.png' | absolute_url }}" alt="">June Oh</figure> | Facial Animation |
-| <figure style="width: 150px"><img src="{{ '/images/moonwonyu.png' | absolute_url }}" alt="">Moonwon Yu</figure> | Inverse Kinematics, Style Transfer |
-| <figure style="width: 150px"><img src="{{ '/images/yoondm.png' | absolute_url }}" alt="">Dumim Yoon</figure> | Facial Animation |
-| <figure style="width: 150px"><img src="{{ '/images/swchung.png' | absolute_url }}" alt="">Seongwoo Chung</figure> | Facial Animation, NCML |
+| <figure style="width: 100px"><img src="{{ '/images/ncdrjang.jpg' | absolute_url }}" alt="">Hanyong Jang</figure> | Team Leader |
+| <figure style="width: 100px"><img src="{{ '/images/requiem4546.png' | absolute_url }}" alt="">Byungjun Kwon</figure> | Inverse Kinematics, Style Transfer |
+| <figure style="width: 100px"><img src="{{ '/images/dtrca.png' | absolute_url }}" alt="">Jungsu Park</figure> | Facial Animation |
+| <figure style="width: 100px"><img src="{{ '/images/eunbi.png' | absolute_url }}" alt="">Eunbi Seol</figure> | Inverse Kinematics, NCML |
+| <figure style="width: 100px"><img src="{{ '/images/jaekyuoh.png' | absolute_url }}" alt="">Jaekyu Oh</figure> | Facial Animation |
+| <figure style="width: 100px"><img src="{{ '/images/june5.png' | absolute_url }}" alt="">June Oh</figure> | Facial Animation |
+| <figure style="width: 100px"><img src="{{ '/images/moonwonyu.png' | absolute_url }}" alt="">Moonwon Yu</figure> | Inverse Kinematics, Style Transfer |
+| <figure style="width: 100px"><img src="{{ '/images/yoondm.png' | absolute_url }}" alt="">Dumim Yoon</figure> | Facial Animation |
+| <figure style="width: 100px"><img src="{{ '/images/swchung.png' | absolute_url }}" alt="">Seongwoo Chung</figure> | Facial Animation, NCML |
