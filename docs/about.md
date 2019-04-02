@@ -22,14 +22,19 @@ Contact: ncdrjang@ncsoft.com
 
 ## Members
 
-| Name                  |  Field of Research                                            |
-|-----------------------|---------------------------------------------------------------|
-| [Hanyong Jang](#)     |  Team Leader                                                  |
-| [Byungjun Kwon](#)    |  Inverse Kinematics, Style Transfer                           |
-| [Eunbi Seol](#)       |  Inverse Kinematics, NCML                                     |
-| [Jungsu Park](#)      |  Facial Animation                                             |
-| [Jaekyu Oh](#)        |  Facial Animation                                             |
-| [June Oh](#)          |  Facial Animation                                             |
-| [Moonwon Yu](#)       |  Inverse Kinematics, Style Transfer                           |
-| [Dumim Yoon](#)       |  Facial Animation                                             |
-| [Seongwoo Chung](#)   |  Facial Animation, NCML                                       |
+| Name               |  Field of Research                                            |
+|--------------------|---------------------------------------------------------------|
+| ![image-left]({{ '/images/ncdrjang.jpg'|absolute_url}}){: .align-left} [Hanyong Jang]     |  Team Leader                                                  |
+| [Byungjun Kwon]    |  Inverse Kinematics, Style Transfer                           |
+| [Eunbi Seol]       |  Inverse Kinematics, NCML                                     |
+| [Jungsu Park]      |  Facial Animation                                             |
+| [Jaekyu Oh]        |  Facial Animation                                             |
+| [June Oh]          |  Facial Animation                                             |
+| [Moonwon Yu]       |  Inverse Kinematics, Style Transfer                           |
+| [Dumim Yoon]       |  Facial Animation                                             |
+| [Seongwoo Chung]   |  Facial Animation, NCML                                       |
+
+ <figure style="width: 150px" class="align-right">
+  <img src="{{ '/images/ncdrjang.jpg' | absolute_url }}" alt="">
+  <figcaption>Feels good to be on the right.</figcaption>
+</figure>
